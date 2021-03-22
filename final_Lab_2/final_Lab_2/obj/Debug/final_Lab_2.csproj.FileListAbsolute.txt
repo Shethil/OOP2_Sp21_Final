@@ -1,0 +1,7 @@
+D:\2020-2021, Spring\Code\C sharp\final_Lab_2\final_Lab_2\bin\Debug\final_Lab_2.exe.config
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\final_Lab_2\final_Lab_2\bin\Debug\final_Lab_2.exe.config
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\final_Lab_2\final_Lab_2\bin\Debug\final_Lab_2.exe
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\final_Lab_2\final_Lab_2\bin\Debug\final_Lab_2.pdb
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\final_Lab_2\final_Lab_2\obj\Debug\final_Lab_2.csprojResolveAssemblyReference.cache
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\final_Lab_2\final_Lab_2\obj\Debug\final_Lab_2.exe
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\final_Lab_2\final_Lab_2\obj\Debug\final_Lab_2.pdb
