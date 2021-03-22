@@ -1,0 +1,6 @@
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\2020-2021, Spring\Code\OOP2_Sp21_Final\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
